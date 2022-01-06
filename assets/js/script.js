@@ -32,3 +32,4 @@ document.addEventListener("DOMContentLoaded", () => {
         setFormMessage(loginForm, "error", "Invalid username/password combination");
     });
 });
+
